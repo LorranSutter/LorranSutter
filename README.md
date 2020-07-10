@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently studying Blockchain Development at [George Brown College](https://www.georgebrown.ca/)
+- ⚡ Fun fact: I know by heart 42 decimal places of the number PI
+
 <!--
 **LorranSutter/LorranSutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
