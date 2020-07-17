@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Lorran
+
+I am passionate about building things using innovative and disruptive technologies!
 
 - 🌱 I’m currently studying Blockchain Development at [George Brown College](https://www.georgebrown.ca/)
 - ⚡ Fun fact: I know by heart 42 decimal places of the number PI
