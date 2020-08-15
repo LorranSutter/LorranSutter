@@ -6,6 +6,8 @@ Of course, none of this would be possible without a good cup of coffee ☕
 
 - 🌱 I’m currently studying Blockchain Development at [George Brown College](https://www.georgebrown.ca/)
 - 🔭 I’m currently working on my [personal website](https://github.com/LorranSutter/lorransutter.github.io) and in my Capstone Project: [Liken](https://github.com/LorranSutter/Liken) 🎓
+- 💬 Ask me about Life, the Universe and Everything
+- 📫 How to reach me: find me on [LinkedIn](https://www.linkedin.com/in/lorransutter/)
 - ⚡ Fun fact: I know by heart 42 decimal places of the number PI
 
 <!--
@@ -15,7 +17,5 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
