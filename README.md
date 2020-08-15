@@ -1,9 +1,11 @@
 ### Hi there 👋 I'm Lorran
 
-I am passionate about building things using innovative and disruptive technologies!
+I am a Computational Engineer by background and programmer by heart. My passion is building things with innovative and disruptive technologies. This is a reason why I chose to study Blockchain.
+
+Of course, none of this would be possible without a good cup of coffee ☕
 
 - 🌱 I’m currently studying Blockchain Development at [George Brown College](https://www.georgebrown.ca/)
-- 🔭 I’m currently working on my [personal website](https://github.com/LorranSutter/lorransutter.github.io) and in my Capstone Project 🎓
+- 🔭 I’m currently working on my [personal website](https://github.com/LorranSutter/lorransutter.github.io) and in my Capstone Project: [Liken](https://github.com/LorranSutter/Liken) 🎓
 - ⚡ Fun fact: I know by heart 42 decimal places of the number PI
 
 <!--
