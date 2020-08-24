@@ -5,7 +5,7 @@ I am a Computational Engineer by background and programmer by heart. My passion 
 Of course, none of this would be possible without a good cup of coffee ☕
 
 - 🌱 I’m currently studying Blockchain Development at [George Brown College](https://www.georgebrown.ca/)
-- 🔭 I’m currently working on my [personal website](https://github.com/LorranSutter/lorransutter.github.io) and in an idea for a multiplayer game :game_die:
+- 🔭 I’m currently working on my [personal website](https://github.com/LorranSutter/lorransutter.github.io) and in a [multiplayer game](https://github.com/LorranSutter/Dixit) :game_die:
 - 💬 Ask me about Life, the Universe and Everything
 - 📫 How to reach me: find me on [LinkedIn](https://www.linkedin.com/in/lorransutter/)
 - ⚡ Fun fact: I know by heart 42 decimal places of the number PI
