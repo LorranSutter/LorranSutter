@@ -10,8 +10,8 @@ Of course, none of this would be possible without a good cup of coffee ☕
 - 📫 How to reach me: find me on [LinkedIn](https://www.linkedin.com/in/lorransutter/)
 - ⚡ Fun fact: I know by heart 42 decimal places of the number PI
 
-<img align="left" alt="LorranSutter's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LorranSutter&show_icons=true&hide_border=true" />
-<img align="left" alt="LorranSutter's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorranSutter&layout=compact&hide_border=true" />
+<img align="left" alt="LorranSutter's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LorranSutter&show_icons=true&hide_border=true&theme=tokyonight " />
+<img align="left" alt="LorranSutter's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorranSutter&layout=compact&hide_border=true&theme=tokyonight " />
 
 <!--
 **LorranSutter/LorranSutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
