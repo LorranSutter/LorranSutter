@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LorranSutter.heyPage)
 
-I am a Computational Engineer by background and programmer by heart. My passion is building things with innovative and disruptive technologies. This is a reason why I chose to study Blockchain.
+I am a Computational Engineer by background and programmer by fun. My passion is building things with innovative and disruptive technologies. This is a reason why I chose to study Blockchain.
 
 Of course, none of this would be possible without a good cup of coffee ☕
 
