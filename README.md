@@ -6,7 +6,7 @@ I am a Computational Engineer by background and programmer by fun. My passion is
 
 Of course, none of this would be possible without a good cup of coffee ☕
 
-- 🌱 I’m currently working as a Smart Contract Engineer at [Upstate Intractive](https://upstateinteractive.io/)
+- 🌱 I’m currently working as a Senior Engineer at [DIMO](https://dimo.zone/)
 - 🔭 I’m currently working mostly on Ethereum dApps
 - 💬 Ask me about Life, the Universe and Everything
 - 📫 How to reach me: find me on [LinkedIn](https://www.linkedin.com/in/lorransutter/)
