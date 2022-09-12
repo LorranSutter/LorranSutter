@@ -13,8 +13,8 @@ Of course, none of this would be possible without a good cup of coffee ☕
 - ⚡ Fun fact: I know by heart 42 decimal places of the number PI
 - 😄 Pronouns: He/Him
 
-<!-- <img align="left" alt="LorranSutter's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LorranSutter&show_icons=true&hide_border=true&theme=tokyonight&hide=issues " /> -->
-<img align="left" alt="LorranSutter's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorranSutter&layout=compact&hide_border=true&theme=tokyonight " />
+<!-- <img align="left" alt="LorranSutter's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LorranSutter&show_icons=true&hide_border=true&theme=tokyonight&hide=issues " />
+<img align="left" alt="LorranSutter's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorranSutter&layout=compact&hide_border=true&theme=tokyonight " /> -->
 
 <!--
 **LorranSutter/LorranSutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
